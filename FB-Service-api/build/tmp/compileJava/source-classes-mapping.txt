@@ -1,0 +1,27 @@
+com/liferay/docs/feedback/service/FeedbackLocalServiceWrapper.java
+ com.liferay.docs.feedback.service.FeedbackLocalServiceWrapper
+com/liferay/docs/feedback/service/FeedbackServiceWrapper.java
+ com.liferay.docs.feedback.service.FeedbackServiceWrapper
+com/liferay/docs/feedback/service/FeedbackService.java
+ com.liferay.docs.feedback.service.FeedbackService
+com/liferay/docs/feedback/service/FeedbackLocalServiceUtil.java
+ com.liferay.docs.feedback.service.FeedbackLocalServiceUtil
+com/liferay/docs/feedback/service/FeedbackServiceUtil.java
+ com.liferay.docs.feedback.service.FeedbackServiceUtil
+com/liferay/docs/feedback/model/Feedback.java
+ com.liferay.docs.feedback.model.Feedback
+ com.liferay.docs.feedback.model.Feedback$1
+com/liferay/docs/feedback/model/FeedbackTable.java
+ com.liferay.docs.feedback.model.FeedbackTable
+com/liferay/docs/feedback/service/FeedbackLocalService.java
+ com.liferay.docs.feedback.service.FeedbackLocalService
+com/liferay/docs/feedback/model/FeedbackModel.java
+ com.liferay.docs.feedback.model.FeedbackModel
+com/liferay/docs/feedback/model/FeedbackWrapper.java
+ com.liferay.docs.feedback.model.FeedbackWrapper
+com/liferay/docs/feedback/service/persistence/FeedbackUtil.java
+ com.liferay.docs.feedback.service.persistence.FeedbackUtil
+com/liferay/docs/feedback/exception/NoSuchFeedbackException.java
+ com.liferay.docs.feedback.exception.NoSuchFeedbackException
+com/liferay/docs/feedback/service/persistence/FeedbackPersistence.java
+ com.liferay.docs.feedback.service.persistence.FeedbackPersistence

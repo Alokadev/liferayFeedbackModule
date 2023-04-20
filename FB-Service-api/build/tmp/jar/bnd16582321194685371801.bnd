@@ -1,0 +1,46 @@
+-provider-policy=${replacestring;${range;[\=\=,\=\=]};.*,(.*)];$1}
+-contract=*
+-includeresource=META-INF/service.xml\=../FB-Service-service/service.xml
+displayName=project '\:modules\:FB-Service\:FB-Service-api'
+target.platform.index.sources=false
+description=FB-Service-api
+Javac-Debug=on
+Bundle-Name=FB-Service-api
+Javac-Encoding=Cp1252
+-plugin.liferay=com.liferay.ant.bnd.resource.AddResourceVerifierPlugin,com.liferay.ant.bnd.jsp.JspAnalyzerPlugin,com.liferay.ant.bnd.metatype.MetatypePlugin,com.liferay.ant.bnd.npm.NpmAnalyzerPlugin,com.liferay.ant.bnd.resource.bundle.ResourceBundleLoaderAnalyzerPlugin,com.liferay.ant.bnd.sass.SassAnalyzerPlugin,com.liferay.ant.bnd.service.ServiceAnalyzerPlugin,com.liferay.ant.bnd.social.SocialAnalyzerPlugin,aQute.lib.spring.SpringComponent,com.liferay.ant.bnd.spring.SpringDependencyAnalyzerPlugin,com.liferay.ant.bnd.enterprise.EnterpriseAnalyzerPlugin
+Export-Package=com.liferay.docs.feedback.exception,com.liferay.docs.feedback.model,com.liferay.docs.feedback.service,com.liferay.docs.feedback.service.persistence
+-metatype=*
+path=\:modules\:FB-Service\:FB-Service-api
+liferay.workspace.themes.dir=themes
+testResultsDirName=test-results
+Bundle-SymbolicName=com.liferay.docs.feedback.api
+-check=EXPORTS
+liferay.workspace.modules.dir=modules
+-liferay-service-xml=service.xml,*/service.xml
+liferay.workspace.bundle.dist.include.metadata=true
+-includeresource.compileInclude=
+Javac-Deprecation=off
+group=MDSE-Aloka.modules.FB-Service
+-fixupmessages.deprecated=annotations are deprecated
+-plugin.metatype=com.liferay.ant.bnd.metatype.MetatypePlugin
+-consumer-policy=${replacestring;${range;[\=\=,\=\=]};.*,(.*)];$1}
+-cdiannotations=
+liferay.workspace.wars.dir=modules
+liferay.workspace.product=dxp-7.4-u33
+-jsp=*.jsp,*.jspf,*.jspx
+version=1.0.0
+-fixupmessages.classpath.empty=Classpath is empty
+-fixupmessages.unicode.string=Invalid unicode string
+distsDirName=distributions
+-sass=*
+Bundle-Version=1.0.0
+-add-resource=C\:/Users/Aloka/Desktop/Life/liferay-ce-portal/MDSE-Aloka/modules/FB-Service/FB-Service-api/build/tmp/compileJSP,C\:/Users/Aloka/Desktop/Life/liferay-ce-portal/MDSE-Aloka/modules/FB-Service/FB-Service-api/build/jspc
+docsDirName=docs
+microsoft.translator.subscription.key=
+name=FB-Service-api
+archivesBaseName=com.liferay.docs.feedback.api
+testReportDirName=tests
+-noclassforname=true
+libsDirName=libs
+-donotcopy=(.*.wsdd)
+status=integration

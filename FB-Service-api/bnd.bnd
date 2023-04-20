@@ -1,0 +1,10 @@
+Bundle-Name: FB-Service-api
+Bundle-SymbolicName: com.liferay.docs.feedback.api
+Bundle-Version: 1.0.0
+Export-Package:\
+	com.liferay.docs.feedback.exception,\
+	com.liferay.docs.feedback.model,\
+	com.liferay.docs.feedback.service,\
+	com.liferay.docs.feedback.service.persistence
+-check: EXPORTS
+-includeresource: META-INF/service.xml=../FB-Service-service/service.xml
