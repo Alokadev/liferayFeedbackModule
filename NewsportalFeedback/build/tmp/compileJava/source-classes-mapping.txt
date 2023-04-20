@@ -1,0 +1,4 @@
+com/liferay/docs/feedback/portlet/constants/NewsportalFeedbackPortletKeys.java
+ com.liferay.docs.feedback.portlet.constants.NewsportalFeedbackPortletKeys
+com/liferay/docs/feedback/portlet/portlet/NewsportalFeedbackPortlet.java
+ com.liferay.docs.feedback.portlet.portlet.NewsportalFeedbackPortlet
