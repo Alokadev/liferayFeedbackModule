@@ -1,0 +1,25 @@
+com/liferay/docs/feedback/service/base/FeedbackServiceBaseImpl.java
+ com.liferay.docs.feedback.service.base.FeedbackServiceBaseImpl
+com/liferay/docs/feedback/service/http/FeedbackServiceHttp.java
+ com.liferay.docs.feedback.service.http.FeedbackServiceHttp
+com/liferay/docs/feedback/model/impl/FeedbackBaseImpl.java
+ com.liferay.docs.feedback.model.impl.FeedbackBaseImpl
+com/liferay/docs/feedback/model/impl/FeedbackModelImpl.java
+ com.liferay.docs.feedback.model.impl.FeedbackModelImpl
+ com.liferay.docs.feedback.model.impl.FeedbackModelImpl$EscapedModelProxyProviderFunctionHolder
+com/liferay/docs/feedback/service/persistence/impl/FeedbackPersistenceImpl.java
+ com.liferay.docs.feedback.service.persistence.impl.FeedbackPersistenceImpl
+com/liferay/docs/feedback/service/persistence/impl/constants/FBPersistenceConstants.java
+ com.liferay.docs.feedback.service.persistence.impl.constants.FBPersistenceConstants
+com/liferay/docs/feedback/model/impl/FeedbackCacheModel.java
+ com.liferay.docs.feedback.model.impl.FeedbackCacheModel
+com/liferay/docs/feedback/model/impl/FeedbackImpl.java
+ com.liferay.docs.feedback.model.impl.FeedbackImpl
+com/liferay/docs/feedback/service/impl/FeedbackLocalServiceImpl.java
+ com.liferay.docs.feedback.service.impl.FeedbackLocalServiceImpl
+com/liferay/docs/feedback/service/base/FeedbackLocalServiceBaseImpl.java
+ com.liferay.docs.feedback.service.base.FeedbackLocalServiceBaseImpl
+com/liferay/docs/feedback/service/persistence/impl/FeedbackModelArgumentsResolver.java
+ com.liferay.docs.feedback.service.persistence.impl.FeedbackModelArgumentsResolver
+com/liferay/docs/feedback/service/impl/FeedbackServiceImpl.java
+ com.liferay.docs.feedback.service.impl.FeedbackServiceImpl

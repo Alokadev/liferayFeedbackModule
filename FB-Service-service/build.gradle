@@ -1,0 +1,11 @@
+dependencies {
+	compile project(":modules:FB-Service:FB-Service-api")
+
+	compileOnly group: "com.liferay.portal", name: "release.dxp.api"
+}
+
+buildService {
+	apiDir = "../FB-Service-api/src/main/java"
+}
+
+group = "com.liferay.docs.feedback"
